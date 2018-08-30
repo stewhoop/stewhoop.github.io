@@ -176,13 +176,13 @@
     <div class="reveal" id="contactModal" data-reveal>
       <h4>Contact information</h4>
       <ul class="no-bullet">
-        <li>Dr. James Davis, PhD, PMP, CSP, CSM</li>
+        <li>Stewart Hooper</li>
         <li>
-          <a href="mailto:james@agilephd.com?Subject=AgilePhD" target="_top">
-            james@agilephd.com
+          <a href="mailto:stewhoop35@gmail.com?Subject=gmail" target="_top">
+            Stewhoop35@gmail.com
           </a>
         </li>
-        <li><a href="tel:+12258920230">+1.225.892.0230</a></li>
+        <li><a href="tel:+5045755108">+1.504.575.5108</a></li>
       </ul>
       <button class="close-button" data-close aria-label="Close modal" type="button">
         <span aria-hidden="true">&times;</span>
